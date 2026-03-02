@@ -44,11 +44,9 @@ My current interests include:
 
 ## Research Interests
 
-- Foundation Models / Large Language Models
-- Agentic Reasoning and Tool Use
-- Reinforcement Learning for LLMs
-- Process Supervision
-- Self-Evolving / Self-Improving Systems
+- LLM Reasoning
+- Tool-Using Agent
+- Self-Evolving Agent
 
 ## Contact
 
@@ -74,33 +72,11 @@ My current interests include:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LulaCola&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xuyan923r&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LulaCola&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agents-6A5ACD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-AI-8A2BE2?style=flat-square" />
-</p>
-
----
-
-## Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LulaCola&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---

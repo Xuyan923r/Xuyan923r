@@ -34,12 +34,6 @@
 
 I am an undergraduate student in Artificial Intelligence at the Gaoling School of Artificial Intelligence, Renmin University of China, expected to graduate in 2027. I am currently a research intern at **RUCBM**.
 
-My current interests include:
-
-- **LLM Reasoning**
-- **Tool-Using Agents**
-- **Agent Process Evaluation**
-
 ## Research Interests
 
 - LLM Reasoning
@@ -52,10 +46,6 @@ My current interests include:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xuyan923r&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LulaCola&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

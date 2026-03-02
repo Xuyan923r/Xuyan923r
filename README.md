@@ -38,8 +38,6 @@ My current interests include:
 
 - **LLM Reasoning**
 - **Tool-Using Agents**
-- **Self-Distillation**
-- **Reinforcement Learning for Language Models**
 - **Agent Process Evaluation**
 
 ## Research Interests
@@ -47,25 +45,6 @@ My current interests include:
 - LLM Reasoning
 - Tool-Using Agent
 - Self-Evolving Agent
-
-## Contact
-
-- **Email:** xuyan923r@gmail.com  
-- **Google Scholar:** https://scholar.google.com/citations?user=euF17h4AAAAJ  
-- **Homepage:** https://xuyan923r.github.io/
-
-   </td>
-   <td width="40%" valign="top" align="center">
-
-   <img src="https://github.com/LulaCola.png" width="220" style="border-radius: 50%;" alt="avatar" />
-
-   <br/><br/>
-
-   <img src="https://github-readme-stats.vercel.app/api?username=LulaCola&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-
-   </td>
-  </tr>
-</table>
 
 ---
 

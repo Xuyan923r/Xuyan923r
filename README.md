@@ -30,14 +30,5 @@
   <tr>
     <td width="60%" valign="top">
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xuyan923r&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile.</i>
-</p>

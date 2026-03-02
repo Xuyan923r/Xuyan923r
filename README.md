@@ -30,22 +30,10 @@
   <tr>
     <td width="60%" valign="top">
 
-## About Me
-
-I am an undergraduate student in Artificial Intelligence at the Gaoling School of Artificial Intelligence, Renmin University of China, expected to graduate in 2027. I am currently a research intern at **RUCBM**.
-
-## Research Interests
-
-- LLM Reasoning
-- Tool-Using Agent
-- Self-Evolving Agent
-
----
-
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xuyan923r&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LulaCola&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
